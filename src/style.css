@@ -1,0 +1,45 @@
+.banderas {
+    margin-right: 200px;
+}
+
+.banderas button {
+	border: none;
+	cursor: pointer;
+	background: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	display: inline-block;
+	width: 30px;
+	margin-left: 20px;
+}
+
+.banderas button img {
+	width: 200%;
+}
+
+.containerInput {
+	align-items: end;
+	right: 0;
+	display: flex;
+	justify-content: flex-end;
+	padding-bottom: 15px;
+}
+
+.inputBuscar {
+	width: 50% !important;
+}
+
+.margin-l {
+	margin-left: 70px;
+}
+
+.spinner {
+	margin-top: 94px;
+    margin-left: 34rem;
+}
+
+.spinner-border {
+	width: 5rem;
+    height: 5rem;
+}
