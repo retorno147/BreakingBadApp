@@ -27,6 +27,10 @@ useDispatch para retornar la funcion almacenada en redux.
 
 React Router DOM es un paquete npm que le permite implementar enrutamiento dinámico en una aplicación web.
 
+He usado HashRouter en vez de BrowserRoute porque al recargar la página en el servidor de gitPage no lo reconocia.
+
+Suelo usar BrowserRouter.
+
 ### `React i18next`
 
 react-i18next es un framework de internalización.
